@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="Portada" src="https://github.com/user-attachments/assets/30fd5ab8-820e-4b0b-8bf2-4da914f46dc5" />
+
 🌐 **Idioma:** [English](README.md) | Español
 
 # Predicción de Abandono de Clientes
