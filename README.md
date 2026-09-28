@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="Portada" src="https://github.com/user-attachments/assets/..." />
+<img width="2172" height="724" alt="Portada" src="https://github.com/user-attachments/assets/d8b9b506-6a34-4a5b-a2ba-e239f7aec8b0" />
 
 🌐 **Language:** English | [Español](README_ES.md)
 
