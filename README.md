@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="Portada" src="https://github.com/user-attachments/assets/..." />
+
 🌐 **Language:** English | [Español](README_ES.md)
 
 # Customer Churn Prediction
